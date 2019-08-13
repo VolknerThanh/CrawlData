@@ -1,12 +1,12 @@
 /*
 README
 
-tool 					: Crawl Sendo Website's Q&A
-description 	: cào dữ liệu từ trang sendo để lấy các bình luận hỏi đáp làm dữ liệu train cho chatbot
-author				: RainSilver
-contributer		: 
-github				: https://github.com/VolknerThanh
-NOTE 					: tool thao tác trên nền front-end, chỉ get dữ liệu, không tác động đến cơ sở dữ liệu
+tool          : Crawl Sendo Website's Q&A
+description   : cào dữ liệu từ trang sendo để lấy các bình luận hỏi đáp làm dữ liệu train cho chatbot
+author        : RainSilver
+contributer   : 
+github        : https://github.com/VolknerThanh
+NOTE          : tool thao tác trên nền front-end, chỉ get dữ liệu, không tác động đến cơ sở dữ liệu
 
 ===========================================
 RUNNING

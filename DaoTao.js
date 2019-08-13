@@ -1,12 +1,12 @@
 /*
 READ ME
 
-tool 					: GET SCHEDULE
-description 	: cào dữ liệu từ trang daotao để lấy thời khóa biểu của các khoa
-author				: RainSilver
-contributer		: Giấy Nháp
-github				: https://github.com/VolknerThanh
-NOTE 					: tool thao tác trên nền front-end, chỉ get dữ liệu, không tác động đến cơ sở dữ liệu
+tool          : GET SCHEDULE
+description   : cào dữ liệu từ trang daotao để lấy thời khóa biểu của các khoa
+author        : RainSilver
+contributer   : Giấy Nháp
+github        : https://github.com/VolknerThanh
+NOTE          : tool thao tác trên nền front-end, chỉ get dữ liệu, không tác động đến cơ sở dữ liệu
 
 ===========================================
 RUNNING
